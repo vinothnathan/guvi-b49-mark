@@ -1,0 +1,17 @@
+
+
+ 1.difference between document and window
+
+
+  Browser Object:
+             
+              1. The Browser Object Model contains objects that represent the current browser window or tab.
+              2. Window object has properties like browser history, location and the device’s screen etc.  
+              3. will affect the whole browser window.
+
+
+  Document Object: 
+
+              1. When a web page is loaded, the browser creates a Document Object Model of the page.
+              2. The document object represents the whole html .
+              3. It is the root element that represents the html document.
