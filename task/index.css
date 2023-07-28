@@ -1,0 +1,14 @@
+.container jumbotron {
+    margin: auto;
+}
+.span {
+    text-align: center;
+    font-size: x-large;
+}
+.display {
+    margin: auto;
+    text-align: center;
+    max-width: 360px;
+    font-size: 30px;
+}
+
