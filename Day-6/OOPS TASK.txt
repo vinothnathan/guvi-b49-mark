@@ -1,0 +1,189 @@
+
+                                                               Day 06 :OOPS TASK
+
+
+  1) Class - movie
+                  
+                 class Movie {
+                     constructor(title, studio, rating = "PG") {
+                       this.title = title;
+                       this.studio = studio;
+                       this.rating = rating;
+                          }
+                        }
+
+                      function getPG(movies) {
+
+                      return movies.filter(movie => movie.rating === "PG");
+                       }
+
+                      const casinoRoyale = new Movie("Casino Royale", "Eon Productions", "PG-13");
+
+                      const movieArray = [
+                         new Movie("Casino Royale", "Eon Productions", "PG-13"),
+                       ];
+
+                      const pgMovies = getPG(movieArray);
+
+                      console.log(movieArray);
+
+                       OUTPUT
+                         [
+                              Movie {
+                               title: 'Casino Royale',
+                               studio: 'Eon Productions',
+                               rating: 'PG-13'
+                            }
+                         ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  2) Circle Class
+           
+                 class Circle {
+                   constructor(radius = 1.0, color = "red") {
+                   this._radius = radius;
+                   this._color = color;
+                }
+
+                  get radius() {
+                  return this._radius;
+             }
+
+                  set radius(newRadius) {
+                    if (newRadius > 0) {
+                    this._radius = newRadius;
+             } else {
+                  console.error("Radius must be a positive number.");
+             }
+        }
+
+                 get color() {
+                   return this._color;
+        }
+
+                 set color(newColor) {
+                   this._color = newColor;
+        }
+
+                 area() {
+                     return Math.PI * this._radius ** 2;
+        }
+
+                 circumference() {
+                      return 2 * Math.PI * this._radius;
+        }
+
+                 toString() {
+                      return `Circle[radius=${this._radius}, color=${this._color}]`;
+       }
+     }
+
+                const circle1 = new Circle();
+                const circle2 = new Circle(7, 'blue');
+
+                console.log(circle1.toString());
+                console.log(circle2.toString());
+                  
+                 OUTPUT
+                   Circle[radius=3, color=red]
+                   Circle[radius=7, color=green]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3)Write a “person” class to hold all the details.
+
+ class Person {
+   constructor(firstName, lastName, age, gender, email) {
+    this._firstName = firstName;
+    this._lastName = lastName;
+    this._age = age;
+    this._gender = gender;
+    this._email = email;
+  }
+   get firstName() {
+    return this._firstName;
+  }
+  get lastName() {
+    return this._lastName;
+  }
+  get age() {
+    return this._age;
+  }
+  get gender() {
+    return this._gender;
+  }
+  get email() {
+    return this._email;
+  }
+  set firstName(newFirstName) {
+    this._firstName = newFirstName;
+  }
+  set lastName(newLastName) {
+    this._lastName = newLastName;
+  }
+  set age(newAge) {
+    if (newAge >= 0) {
+      this._age = newAge;
+    }
+  }
+  set gender(newGender) {
+    this._gender = newGender;
+  }
+  set email(newEmail) {
+       this._email = newEmail;
+  }
+  getFullName() {
+    return this._firstName + ' ' + this._lastName;
+  }
+  introduce() {
+    return `Hi, my name is ${this.getFullName()}, and I am ${this._age} years old. I identify as ${this._gender}. You can reach me at ${this._email}.`;
+  }
+}
+const person = new Person('Vinoth', 'Kumar', 27, 'Male', 'vinoth@example.com');
+console.log(person.firstName);
+console.log(person.lastName);
+console.log(person.age);
+console.log(person.gender);
+console.log(person.email);
+
+person.firstName = 'B.Vinoth';
+person.age = 27;
+console.log(person.introduce());
+
+OUTPUT:
+Vinoth
+Kumar
+27
+Male
+vinoth@example.com
+Hi, my name is B.Vinoth Kumar, and I am 27 years old. I identify as Male. 
+You can reach me at vinoth@example.com.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4)write a class to calculate the uber price.
+
+class UberPriceCalculator {
+  constructor(baseFare, costPerMile, costPerMinute) {
+    this.baseFare = baseFare;
+    this.costPerMile = costPerMile;
+    this.costPerMinute = costPerMinute;
+  }
+  calculatePrice(distanceInMiles, timeInMinutes) {
+    const distanceCost = distanceInMiles * this.costPerMile;
+    const timeCost = timeInMinutes * this.costPerMinute;
+    const totalCost = this.baseFare + distanceCost + timeCost;
+    return totalCost;
+  }
+}
+// Example usage
+const calculator = new UberPriceCalculator(2.5, 1.25, 0.2);
+const distance = 5; // miles
+const time = 15; // minutes
+const totalPrice = calculator.calculatePrice(distance, time);
+
+console.log(`The estimated Uber price is $${totalPrice.toFixed(2)}`);
+
+OUTPUT:
+The estimated Uber price is $11.75
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

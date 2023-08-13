@@ -1,0 +1,89 @@
+     
+    CodeKata Practies:
+
+       1)function greet(name) {
+             return "Hi, " + name + "!";
+         }
+
+              const greeting = greet("Dude");
+              console.log(greeting); // Output: Hi, Dude!
+_____________________________________________________________________________________________________________________________________________________________________________________
+
+
+        2)  function getSum(a, b, c) {
+                  return a + b + c;
+      }
+
+             var arr = [10, 20];
+             var arr2 = [30];
+
+             console.log(...arr, ...arr2);
+
+             var res = getSum(...arr, ...arr2);
+
+             console.log(res);
+
+             //OUTPUT
+                40 30 50
+                   120
+________________________________________________________________________________________________________________________________________________________________________________________
+
+         3)function add(...arr) {
+              var sum = 0;
+              for(var i = 0; i < arr.length; i++){
+                 sum += arr[i];
+            }
+                 return sum;
+          }
+
+             var res = add(4,7,12,24,25,16,);
+
+               console.log(res);
+  
+                 OUTPUT: 88
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+          4)function createPerson(name, age) {
+                   return {
+                    name: name,
+                    age: age
+                };
+              }
+
+               const person = createPerson("Vino", 27);
+               console.log(person.name); // Output: Vino
+               console.log(person.age); // Output: 27
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+          5)function example() {
+               if (true) {
+                 let blockScopedVar = "Hi How are you";
+                 console.log(blockScopedVar); // Output: Hi How are you
+              }
+            }
+  example();
+____________________________________________________________________________________________________________________________________________________________________________________________
+
+           6)const person = {
+                name: "Vinoth",
+                age: 27,
+                greet: function() {
+                setTimeout(function() {
+                console.log("Hello, my name is " + this.name);
+            }, 1000);
+           },
+                greetArrow: function() {
+                setTimeout(() => {
+                console.log("Hello, my name is " + this.name);
+            }, 1000);
+          }
+        };
+
+      person.greet(); // Output: Hello, my name is undefined 
+      person.greetArrow(); // Output: Hello, my name is Vinoth
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+           7) 
+
+                         
+            
