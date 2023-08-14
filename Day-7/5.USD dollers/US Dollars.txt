@@ -1,0 +1,22 @@
+5)Print the country which uses US Dollars as currency.
+
+British Indian Ocean Territory
+British Virgin Islands
+United States Virgin Islands
+Bahamas
+United States
+Cambodia
+Palau
+Micronesia
+American Samoa
+United States Minor Outlying Islands
+Guam
+Panama
+Caribbean Netherlands
+Turks and Caicos Islands
+Northern Mariana Islands
+Ecuador
+Marshall Islands
+El Salvador
+Timor-Leste
+Puerto Rico

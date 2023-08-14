@@ -1,0 +1,753 @@
+3)Print the following details name, capital, flag using forEach function
+
+
+index.html:18 Country Name: Saudi Arabia
+index.html:19 Capital: Riyadh
+index.html:20 Flag: https://flagcdn.com/w320/sa.png
+index.html:18 Country Name: Cameroon
+index.html:19 Capital: Yaoundé
+index.html:20 Flag: https://flagcdn.com/w320/cm.png
+index.html:18 Country Name: Iran
+index.html:19 Capital: Tehran
+index.html:20 Flag: https://flagcdn.com/w320/ir.png
+index.html:18 Country Name: United Arab Emirates
+index.html:19 Capital: Abu Dhabi
+index.html:20 Flag: https://flagcdn.com/w320/ae.png
+index.html:18 Country Name: Ukraine
+index.html:19 Capital: Kyiv
+index.html:20 Flag: https://flagcdn.com/w320/ua.png
+index.html:18 Country Name: Benin
+index.html:19 Capital: Porto-Novo
+index.html:20 Flag: https://flagcdn.com/w320/bj.png
+index.html:18 Country Name: Saint Kitts and Nevis
+index.html:19 Capital: Basseterre
+index.html:20 Flag: https://flagcdn.com/w320/kn.png
+index.html:18 Country Name: British Indian Ocean Territory
+index.html:19 Capital: Diego Garcia
+index.html:20 Flag: https://flagcdn.com/w320/io.png
+index.html:18 Country Name: Indonesia
+index.html:19 Capital: Jakarta
+index.html:20 Flag: https://flagcdn.com/w320/id.png
+index.html:18 Country Name: Togo
+index.html:19 Capital: Lomé
+index.html:20 Flag: https://flagcdn.com/w320/tg.png
+index.html:18 Country Name: Brunei
+index.html:19 Capital: Bandar Seri Begawan
+index.html:20 Flag: https://flagcdn.com/w320/bn.png
+index.html:18 Country Name: Czechia
+index.html:19 Capital: Prague
+index.html:20 Flag: https://flagcdn.com/w320/cz.png
+index.html:18 Country Name: Serbia
+index.html:19 Capital: Belgrade
+index.html:20 Flag: https://flagcdn.com/w320/rs.png
+index.html:18 Country Name: Papua New Guinea
+index.html:19 Capital: Port Moresby
+index.html:20 Flag: https://flagcdn.com/w320/pg.png
+index.html:18 Country Name: Nauru
+index.html:19 Capital: Yaren
+index.html:20 Flag: https://flagcdn.com/w320/nr.png
+index.html:18 Country Name: Bermuda
+index.html:19 Capital: Hamilton
+index.html:20 Flag: https://flagcdn.com/w320/bm.png
+index.html:18 Country Name: Venezuela
+index.html:19 Capital: Caracas
+index.html:20 Flag: https://flagcdn.com/w320/ve.png
+index.html:18 Country Name: Mayotte
+index.html:19 Capital: Mamoudzou
+index.html:20 Flag: https://flagcdn.com/w320/yt.png
+index.html:18 Country Name: Romania
+index.html:19 Capital: Bucharest
+index.html:20 Flag: https://flagcdn.com/w320/ro.png
+index.html:18 Country Name: Tuvalu
+index.html:19 Capital: Funafuti
+index.html:20 Flag: https://flagcdn.com/w320/tv.png
+index.html:18 Country Name: Palestine
+index.html:19 Capital: Ramallah
+index.html:20 Flag: https://flagcdn.com/w320/ps.png
+index.html:18 Country Name: China
+index.html:19 Capital: Beijing
+index.html:20 Flag: https://flagcdn.com/w320/cn.png
+index.html:18 Country Name: Sri Lanka
+index.html:19 Capital: Sri Jayawardenepura Kotte
+index.html:20 Flag: https://flagcdn.com/w320/lk.png
+index.html:18 Country Name: South Africa
+index.html:19 Capital: Pretoria
+index.html:20 Flag: https://flagcdn.com/w320/za.png
+index.html:18 Country Name: Guernsey
+index.html:19 Capital: St. Peter Port
+index.html:20 Flag: https://flagcdn.com/w320/gg.png
+index.html:18 Country Name: Tanzania
+index.html:19 Capital: Dodoma
+index.html:20 Flag: https://flagcdn.com/w320/tz.png
+index.html:18 Country Name: Guadeloupe
+index.html:19 Capital: Basse-Terre
+index.html:20 Flag: https://flagcdn.com/w320/gp.png
+index.html:18 Country Name: Faroe Islands
+index.html:19 Capital: Tórshavn
+index.html:20 Flag: https://flagcdn.com/w320/fo.png
+index.html:18 Country Name: Tokelau
+index.html:19 Capital: Fakaofo
+index.html:20 Flag: https://flagcdn.com/w320/tk.png
+index.html:18 Country Name: Malaysia
+index.html:19 Capital: Kuala Lumpur
+index.html:20 Flag: https://flagcdn.com/w320/my.png
+index.html:18 Country Name: India
+index.html:19 Capital: New Delhi
+index.html:20 Flag: https://flagcdn.com/w320/in.png
+index.html:18 Country Name: French Southern and Antarctic Lands
+index.html:19 Capital: Port-aux-Français
+index.html:20 Flag: https://flagcdn.com/w320/tf.png
+index.html:18 Country Name: Gibraltar
+index.html:19 Capital: Gibraltar
+index.html:20 Flag: https://flagcdn.com/w320/gi.png
+index.html:18 Country Name: Norfolk Island
+index.html:19 Capital: Kingston
+index.html:20 Flag: https://flagcdn.com/w320/nf.png
+index.html:18 Country Name: Sudan
+index.html:19 Capital: Khartoum
+index.html:20 Flag: https://flagcdn.com/w320/sd.png
+index.html:18 Country Name: Saint Vincent and the Grenadines
+index.html:19 Capital: Kingstown
+index.html:20 Flag: https://flagcdn.com/w320/vc.png
+index.html:18 Country Name: British Virgin Islands
+index.html:19 Capital: Road Town
+index.html:20 Flag: https://flagcdn.com/w320/vg.png
+index.html:18 Country Name: French Polynesia
+index.html:19 Capital: Papeetē
+index.html:20 Flag: https://flagcdn.com/w320/pf.png
+index.html:18 Country Name: Monaco
+index.html:19 Capital: Monaco
+index.html:20 Flag: https://flagcdn.com/w320/mc.png
+index.html:18 Country Name: Nepal
+index.html:19 Capital: Kathmandu
+index.html:20 Flag: https://flagcdn.com/w320/np.png
+index.html:18 Country Name: Uzbekistan
+index.html:19 Capital: Tashkent
+index.html:20 Flag: https://flagcdn.com/w320/uz.png
+index.html:18 Country Name: Fiji
+index.html:19 Capital: Suva
+index.html:20 Flag: https://flagcdn.com/w320/fj.png
+index.html:18 Country Name: Mauritius
+index.html:19 Capital: Port Louis
+index.html:20 Flag: https://flagcdn.com/w320/mu.png
+index.html:18 Country Name: Montenegro
+index.html:19 Capital: Podgorica
+index.html:20 Flag: https://flagcdn.com/w320/me.png
+index.html:18 Country Name: Kiribati
+index.html:19 Capital: South Tarawa
+index.html:20 Flag: https://flagcdn.com/w320/ki.png
+index.html:18 Country Name: Equatorial Guinea
+index.html:19 Capital: Malabo
+index.html:20 Flag: https://flagcdn.com/w320/gq.png
+index.html:18 Country Name: Heard Island and McDonald Islands
+index.html:19 Capital: undefined
+index.html:20 Flag: https://flagcdn.com/w320/hm.png
+index.html:18 Country Name: Philippines
+index.html:19 Capital: Manila
+index.html:20 Flag: https://flagcdn.com/w320/ph.png
+index.html:18 Country Name: Svalbard and Jan Mayen
+index.html:19 Capital: Longyearbyen
+index.html:20 Flag: https://flagcdn.com/w320/sj.png
+index.html:18 Country Name: Cocos (Keeling) Islands
+index.html:19 Capital: West Island
+index.html:20 Flag: https://flagcdn.com/w320/cc.png
+index.html:18 Country Name: Mozambique
+index.html:19 Capital: Maputo
+index.html:20 Flag: https://flagcdn.com/w320/mz.png
+index.html:18 Country Name: Suriname
+index.html:19 Capital: Paramaribo
+index.html:20 Flag: https://flagcdn.com/w320/sr.png
+index.html:18 Country Name: Senegal
+index.html:19 Capital: Dakar
+index.html:20 Flag: https://flagcdn.com/w320/sn.png
+index.html:18 Country Name: Syria
+index.html:19 Capital: Damascus
+index.html:20 Flag: https://flagcdn.com/w320/sy.png
+index.html:18 Country Name: Lesotho
+index.html:19 Capital: Maseru
+index.html:20 Flag: https://flagcdn.com/w320/ls.png
+index.html:18 Country Name: United States Virgin Islands
+index.html:19 Capital: Charlotte Amalie
+index.html:20 Flag: https://flagcdn.com/w320/vi.png
+index.html:18 Country Name: Cape Verde
+index.html:19 Capital: Praia
+index.html:20 Flag: https://flagcdn.com/w320/cv.png
+index.html:18 Country Name: New Zealand
+index.html:19 Capital: Wellington
+index.html:20 Flag: https://flagcdn.com/w320/nz.png
+index.html:18 Country Name: Latvia
+index.html:19 Capital: Riga
+index.html:20 Flag: https://flagcdn.com/w320/lv.png
+index.html:18 Country Name: Mauritania
+index.html:19 Capital: Nouakchott
+index.html:20 Flag: https://flagcdn.com/w320/mr.png
+index.html:18 Country Name: Sierra Leone
+index.html:19 Capital: Freetown
+index.html:20 Flag: https://flagcdn.com/w320/sl.png
+index.html:18 Country Name: Thailand
+index.html:19 Capital: Bangkok
+index.html:20 Flag: https://flagcdn.com/w320/th.png
+index.html:18 Country Name: United Kingdom
+index.html:19 Capital: London
+index.html:20 Flag: https://flagcdn.com/w320/gb.png
+index.html:18 Country Name: Iraq
+index.html:19 Capital: Baghdad
+index.html:20 Flag: https://flagcdn.com/w320/iq.png
+index.html:18 Country Name: Nigeria
+index.html:19 Capital: Abuja
+index.html:20 Flag: https://flagcdn.com/w320/ng.png
+index.html:18 Country Name: Rwanda
+index.html:19 Capital: Kigali
+index.html:20 Flag: https://flagcdn.com/w320/rw.png
+index.html:18 Country Name: Libya
+index.html:19 Capital: Tripoli
+index.html:20 Flag: https://flagcdn.com/w320/ly.png
+index.html:18 Country Name: Australia
+index.html:19 Capital: Canberra
+index.html:20 Flag: https://flagcdn.com/w320/au.png
+index.html:18 Country Name: Paraguay
+index.html:19 Capital: Asunción
+index.html:20 Flag: https://flagcdn.com/w320/py.png
+index.html:18 Country Name: Finland
+index.html:19 Capital: Helsinki
+index.html:20 Flag: https://flagcdn.com/w320/fi.png
+index.html:18 Country Name: San Marino
+index.html:19 Capital: City of San Marino
+index.html:20 Flag: https://flagcdn.com/w320/sm.png
+index.html:18 Country Name: Bahamas
+index.html:19 Capital: Nassau
+index.html:20 Flag: https://flagcdn.com/w320/bs.png
+index.html:18 Country Name: Dominica
+index.html:19 Capital: Roseau
+index.html:20 Flag: https://flagcdn.com/w320/dm.png
+index.html:18 Country Name: Niger
+index.html:19 Capital: Niamey
+index.html:20 Flag: https://flagcdn.com/w320/ne.png
+index.html:18 Country Name: Saint Helena, Ascension and Tristan da Cunha
+index.html:19 Capital: Jamestown
+index.html:20 Flag: https://flagcdn.com/w320/sh.png
+index.html:18 Country Name: Solomon Islands
+index.html:19 Capital: Honiara
+index.html:20 Flag: https://flagcdn.com/w320/sb.png
+index.html:18 Country Name: Comoros
+index.html:19 Capital: Moroni
+index.html:20 Flag: https://flagcdn.com/w320/km.png
+index.html:18 Country Name: Ghana
+index.html:19 Capital: Accra
+index.html:20 Flag: https://flagcdn.com/w320/gh.png
+index.html:18 Country Name: United States
+index.html:19 Capital: Washington, D.C.
+index.html:20 Flag: https://flagcdn.com/w320/us.png
+index.html:18 Country Name: Malta
+index.html:19 Capital: Valletta
+index.html:20 Flag: https://flagcdn.com/w320/mt.png
+index.html:18 Country Name: Sweden
+index.html:19 Capital: Stockholm
+index.html:20 Flag: https://flagcdn.com/w320/se.png
+index.html:18 Country Name: Brazil
+index.html:19 Capital: Brasília
+index.html:20 Flag: https://flagcdn.com/w320/br.png
+index.html:18 Country Name: Greece
+index.html:19 Capital: Athens
+index.html:20 Flag: https://flagcdn.com/w320/gr.png
+index.html:18 Country Name: Namibia
+index.html:19 Capital: Windhoek
+index.html:20 Flag: https://flagcdn.com/w320/na.png
+index.html:18 Country Name: Estonia
+index.html:19 Capital: Tallinn
+index.html:20 Flag: https://flagcdn.com/w320/ee.png
+index.html:18 Country Name: Tonga
+index.html:19 Capital: Nuku'alofa
+index.html:20 Flag: https://flagcdn.com/w320/to.png
+index.html:18 Country Name: Pakistan
+index.html:19 Capital: Islamabad
+index.html:20 Flag: https://flagcdn.com/w320/pk.png
+index.html:18 Country Name: Isle of Man
+index.html:19 Capital: Douglas
+index.html:20 Flag: https://flagcdn.com/w320/im.png
+index.html:18 Country Name: Bolivia
+index.html:19 Capital: Sucre
+index.html:20 Flag: https://flagcdn.com/w320/bo.png
+index.html:18 Country Name: Cyprus
+index.html:19 Capital: Nicosia
+index.html:20 Flag: https://flagcdn.com/w320/cy.png
+index.html:18 Country Name: South Georgia
+index.html:19 Capital: King Edward Point
+index.html:20 Flag: https://flagcdn.com/w320/gs.png
+index.html:18 Country Name: Kyrgyzstan
+index.html:19 Capital: Bishkek
+index.html:20 Flag: https://flagcdn.com/w320/kg.png
+index.html:18 Country Name: Honduras
+index.html:19 Capital: Tegucigalpa
+index.html:20 Flag: https://flagcdn.com/w320/hn.png
+index.html:18 Country Name: Antigua and Barbuda
+index.html:19 Capital: Saint John's
+index.html:20 Flag: https://flagcdn.com/w320/ag.png
+index.html:18 Country Name: Republic of the Congo
+index.html:19 Capital: Brazzaville
+index.html:20 Flag: https://flagcdn.com/w320/cg.png
+index.html:18 Country Name: Hong Kong
+index.html:19 Capital: City of Victoria
+index.html:20 Flag: https://flagcdn.com/w320/hk.png
+index.html:18 Country Name: Italy
+index.html:19 Capital: Rome
+index.html:20 Flag: https://flagcdn.com/w320/it.png
+index.html:18 Country Name: Cuba
+index.html:19 Capital: Havana
+index.html:20 Flag: https://flagcdn.com/w320/cu.png
+index.html:18 Country Name: Antarctica
+index.html:19 Capital: undefined
+index.html:20 Flag: https://flagcdn.com/w320/aq.png
+index.html:18 Country Name: Oman
+index.html:19 Capital: Muscat
+index.html:20 Flag: https://flagcdn.com/w320/om.png
+index.html:18 Country Name: Vatican City
+index.html:19 Capital: Vatican City
+index.html:20 Flag: https://flagcdn.com/w320/va.png
+index.html:18 Country Name: Bahrain
+index.html:19 Capital: Manama
+index.html:20 Flag: https://flagcdn.com/w320/bh.png
+index.html:18 Country Name: Uruguay
+index.html:19 Capital: Montevideo
+index.html:20 Flag: https://flagcdn.com/w320/uy.png
+index.html:18 Country Name: Yemen
+index.html:19 Capital: Sana'a
+index.html:20 Flag: https://flagcdn.com/w320/ye.png
+index.html:18 Country Name: Cambodia
+index.html:19 Capital: Phnom Penh
+index.html:20 Flag: https://flagcdn.com/w320/kh.png
+index.html:18 Country Name: Morocco
+index.html:19 Capital: Rabat
+index.html:20 Flag: https://flagcdn.com/w320/ma.png
+index.html:18 Country Name: Saint Barthélemy
+index.html:19 Capital: Gustavia
+index.html:20 Flag: https://flagcdn.com/w320/bl.png
+index.html:18 Country Name: Kosovo
+index.html:19 Capital: Pristina
+index.html:20 Flag: https://flagcdn.com/w320/xk.png
+index.html:18 Country Name: Slovakia
+index.html:19 Capital: Bratislava
+index.html:20 Flag: https://flagcdn.com/w320/sk.png
+index.html:18 Country Name: Saint Martin
+index.html:19 Capital: Marigot
+index.html:20 Flag: https://flagcdn.com/w320/mf.png
+index.html:18 Country Name: Wallis and Futuna
+index.html:19 Capital: Mata-Utu
+index.html:20 Flag: https://flagcdn.com/w320/wf.png
+index.html:18 Country Name: Botswana
+index.html:19 Capital: Gaborone
+index.html:20 Flag: https://flagcdn.com/w320/bw.png
+index.html:18 Country Name: France
+index.html:19 Capital: Paris
+index.html:20 Flag: https://flagcdn.com/w320/fr.png
+index.html:18 Country Name: Spain
+index.html:19 Capital: Madrid
+index.html:20 Flag: https://flagcdn.com/w320/es.png
+index.html:18 Country Name: Christmas Island
+index.html:19 Capital: Flying Fish Cove
+index.html:20 Flag: https://flagcdn.com/w320/cx.png
+index.html:18 Country Name: Zambia
+index.html:19 Capital: Lusaka
+index.html:20 Flag: https://flagcdn.com/w320/zm.png
+index.html:18 Country Name: Croatia
+index.html:19 Capital: Zagreb
+index.html:20 Flag: https://flagcdn.com/w320/hr.png
+index.html:18 Country Name: Armenia
+index.html:19 Capital: Yerevan
+index.html:20 Flag: https://flagcdn.com/w320/am.png
+index.html:18 Country Name: Palau
+index.html:19 Capital: Ngerulmud
+index.html:20 Flag: https://flagcdn.com/w320/pw.png
+index.html:18 Country Name: Trinidad and Tobago
+index.html:19 Capital: Port of Spain
+index.html:20 Flag: https://flagcdn.com/w320/tt.png
+index.html:18 Country Name: Andorra
+index.html:19 Capital: Andorra la Vella
+index.html:20 Flag: https://flagcdn.com/w320/ad.png
+index.html:18 Country Name: Algeria
+index.html:19 Capital: Algiers
+index.html:20 Flag: https://flagcdn.com/w320/dz.png
+index.html:18 Country Name: Micronesia
+index.html:19 Capital: Palikir
+index.html:20 Flag: https://flagcdn.com/w320/fm.png
+index.html:18 Country Name: Belize
+index.html:19 Capital: Belmopan
+index.html:20 Flag: https://flagcdn.com/w320/bz.png
+index.html:18 Country Name: Taiwan
+index.html:19 Capital: Taipei
+index.html:20 Flag: https://flagcdn.com/w320/tw.png
+index.html:18 Country Name: Tunisia
+index.html:19 Capital: Tunis
+index.html:20 Flag: https://flagcdn.com/w320/tn.png
+index.html:18 Country Name: Åland Islands
+index.html:19 Capital: Mariehamn
+index.html:20 Flag: https://flagcdn.com/w320/ax.png
+index.html:18 Country Name: Haiti
+index.html:19 Capital: Port-au-Prince
+index.html:20 Flag: https://flagcdn.com/w320/ht.png
+index.html:18 Country Name: Sint Maarten
+index.html:19 Capital: Philipsburg
+index.html:20 Flag: https://flagcdn.com/w320/sx.png
+index.html:18 Country Name: Chad
+index.html:19 Capital: N'Djamena
+index.html:20 Flag: https://flagcdn.com/w320/td.png
+index.html:18 Country Name: Liechtenstein
+index.html:19 Capital: Vaduz
+index.html:20 Flag: https://flagcdn.com/w320/li.png
+index.html:18 Country Name: Dominican Republic
+index.html:19 Capital: Santo Domingo
+index.html:20 Flag: https://flagcdn.com/w320/do.png
+index.html:18 Country Name: Bouvet Island
+index.html:19 Capital: undefined
+index.html:20 Flag: https://flagcdn.com/w320/bv.png
+index.html:18 Country Name: Central African Republic
+index.html:19 Capital: Bangui
+index.html:20 Flag: https://flagcdn.com/w320/cf.png
+index.html:18 Country Name: Austria
+index.html:19 Capital: Vienna
+index.html:20 Flag: https://flagcdn.com/w320/at.png
+index.html:18 Country Name: Singapore
+index.html:19 Capital: Singapore
+index.html:20 Flag: https://flagcdn.com/w320/sg.png
+index.html:18 Country Name: Canada
+index.html:19 Capital: Ottawa
+index.html:20 Flag: https://flagcdn.com/w320/ca.png
+index.html:18 Country Name: Greenland
+index.html:19 Capital: Nuuk
+index.html:20 Flag: https://flagcdn.com/w320/gl.png
+index.html:18 Country Name: Angola
+index.html:19 Capital: Luanda
+index.html:20 Flag: https://flagcdn.com/w320/ao.png
+index.html:18 Country Name: Tajikistan
+index.html:19 Capital: Dushanbe
+index.html:20 Flag: https://flagcdn.com/w320/tj.png
+index.html:18 Country Name: Portugal
+index.html:19 Capital: Lisbon
+index.html:20 Flag: https://flagcdn.com/w320/pt.png
+index.html:18 Country Name: Eswatini
+index.html:19 Capital: Mbabane
+index.html:20 Flag: https://flagcdn.com/w320/sz.png
+index.html:18 Country Name: Somalia
+index.html:19 Capital: Mogadishu
+index.html:20 Flag: https://flagcdn.com/w320/so.png
+index.html:18 Country Name: Guyana
+index.html:19 Capital: Georgetown
+index.html:20 Flag: https://flagcdn.com/w320/gy.png
+index.html:18 Country Name: Ivory Coast
+index.html:19 Capital: Yamoussoukro
+index.html:20 Flag: https://flagcdn.com/w320/ci.png
+index.html:18 Country Name: Maldives
+index.html:19 Capital: Malé
+index.html:20 Flag: https://flagcdn.com/w320/mv.png
+index.html:18 Country Name: Seychelles
+index.html:19 Capital: Victoria
+index.html:20 Flag: https://flagcdn.com/w320/sc.png
+index.html:18 Country Name: Aruba
+index.html:19 Capital: Oranjestad
+index.html:20 Flag: https://flagcdn.com/w320/aw.png
+index.html:18 Country Name: Egypt
+index.html:19 Capital: Cairo
+index.html:20 Flag: https://flagcdn.com/w320/eg.png
+index.html:18 Country Name: Madagascar
+index.html:19 Capital: Antananarivo
+index.html:20 Flag: https://flagcdn.com/w320/mg.png
+index.html:18 Country Name: Zimbabwe
+index.html:19 Capital: Harare
+index.html:20 Flag: https://flagcdn.com/w320/zw.png
+index.html:18 Country Name: South Korea
+index.html:19 Capital: Seoul
+index.html:20 Flag: https://flagcdn.com/w320/kr.png
+index.html:18 Country Name: Eritrea
+index.html:19 Capital: Asmara
+index.html:20 Flag: https://flagcdn.com/w320/er.png
+index.html:18 Country Name: Jamaica
+index.html:19 Capital: Kingston
+index.html:20 Flag: https://flagcdn.com/w320/jm.png
+index.html:18 Country Name: Uganda
+index.html:19 Capital: Kampala
+index.html:20 Flag: https://flagcdn.com/w320/ug.png
+index.html:18 Country Name: Cayman Islands
+index.html:19 Capital: George Town
+index.html:20 Flag: https://flagcdn.com/w320/ky.png
+index.html:18 Country Name: American Samoa
+index.html:19 Capital: Pago Pago
+index.html:20 Flag: https://flagcdn.com/w320/as.png
+index.html:18 Country Name: Mongolia
+index.html:19 Capital: Ulan Bator
+index.html:20 Flag: https://flagcdn.com/w320/mn.png
+index.html:18 Country Name: Luxembourg
+index.html:19 Capital: Luxembourg
+index.html:20 Flag: https://flagcdn.com/w320/lu.png
+index.html:18 Country Name: Guinea
+index.html:19 Capital: Conakry
+index.html:20 Flag: https://flagcdn.com/w320/gn.png
+index.html:18 Country Name: North Macedonia
+index.html:19 Capital: Skopje
+index.html:20 Flag: https://flagcdn.com/w320/mk.png
+index.html:18 Country Name: Bhutan
+index.html:19 Capital: Thimphu
+index.html:20 Flag: https://flagcdn.com/w320/bt.png
+index.html:18 Country Name: Peru
+index.html:19 Capital: Lima
+index.html:20 Flag: https://flagcdn.com/w320/pe.png
+index.html:18 Country Name: United States Minor Outlying Islands
+index.html:19 Capital: Washington DC
+index.html:20 Flag: https://flagcdn.com/w320/um.png
+index.html:18 Country Name: Kazakhstan
+index.html:19 Capital: Nur-Sultan
+index.html:20 Flag: https://flagcdn.com/w320/kz.png
+index.html:18 Country Name: Gabon
+index.html:19 Capital: Libreville
+index.html:20 Flag: https://flagcdn.com/w320/ga.png
+index.html:18 Country Name: Liberia
+index.html:19 Capital: Monrovia
+index.html:20 Flag: https://flagcdn.com/w320/lr.png
+index.html:18 Country Name: Switzerland
+index.html:19 Capital: Bern
+index.html:20 Flag: https://flagcdn.com/w320/ch.png
+index.html:18 Country Name: Qatar
+index.html:19 Capital: Doha
+index.html:20 Flag: https://flagcdn.com/w320/qa.png
+index.html:18 Country Name: Argentina
+index.html:19 Capital: Buenos Aires
+index.html:20 Flag: https://flagcdn.com/w320/ar.png
+index.html:18 Country Name: Falkland Islands
+index.html:19 Capital: Stanley
+index.html:20 Flag: https://flagcdn.com/w320/fk.png
+index.html:18 Country Name: Guam
+index.html:19 Capital: Hagåtña
+index.html:20 Flag: https://flagcdn.com/w320/gu.png
+index.html:18 Country Name: Panama
+index.html:19 Capital: Panama City
+index.html:20 Flag: https://flagcdn.com/w320/pa.png
+index.html:18 Country Name: Saint Pierre and Miquelon
+index.html:19 Capital: Saint-Pierre
+index.html:20 Flag: https://flagcdn.com/w320/pm.png
+index.html:18 Country Name: Caribbean Netherlands
+index.html:19 Capital: Kralendijk
+index.html:20 Flag: https://flagcdn.com/w320/bq.png
+index.html:18 Country Name: Norway
+index.html:19 Capital: Oslo
+index.html:20 Flag: https://flagcdn.com/w320/no.png
+index.html:18 Country Name: Turks and Caicos Islands
+index.html:19 Capital: Cockburn Town
+index.html:20 Flag: https://flagcdn.com/w320/tc.png
+index.html:18 Country Name: Bosnia and Herzegovina
+index.html:19 Capital: Sarajevo
+index.html:20 Flag: https://flagcdn.com/w320/ba.png
+index.html:18 Country Name: Mali
+index.html:19 Capital: Bamako
+index.html:20 Flag: https://flagcdn.com/w320/ml.png
+index.html:18 Country Name: Burkina Faso
+index.html:19 Capital: Ouagadougou
+index.html:20 Flag: https://flagcdn.com/w320/bf.png
+index.html:18 Country Name: Afghanistan
+index.html:19 Capital: Kabul
+index.html:20 Flag: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+index.html:18 Country Name: Slovenia
+index.html:19 Capital: Ljubljana
+index.html:20 Flag: https://flagcdn.com/w320/si.png
+index.html:18 Country Name: French Guiana
+index.html:19 Capital: Cayenne
+index.html:20 Flag: https://flagcdn.com/w320/gf.png
+index.html:18 Country Name: Iceland
+index.html:19 Capital: Reykjavik
+index.html:20 Flag: https://flagcdn.com/w320/is.png
+index.html:18 Country Name: Bulgaria
+index.html:19 Capital: Sofia
+index.html:20 Flag: https://flagcdn.com/w320/bg.png
+index.html:18 Country Name: Georgia
+index.html:19 Capital: Tbilisi
+index.html:20 Flag: https://flagcdn.com/w320/ge.png
+index.html:18 Country Name: Montserrat
+index.html:19 Capital: Plymouth
+index.html:20 Flag: https://flagcdn.com/w320/ms.png
+index.html:18 Country Name: Ireland
+index.html:19 Capital: Dublin
+index.html:20 Flag: https://flagcdn.com/w320/ie.png
+index.html:18 Country Name: Burundi
+index.html:19 Capital: Gitega
+index.html:20 Flag: https://flagcdn.com/w320/bi.png
+index.html:18 Country Name: Northern Mariana Islands
+index.html:19 Capital: Saipan
+index.html:20 Flag: https://flagcdn.com/w320/mp.png
+index.html:18 Country Name: Grenada
+index.html:19 Capital: St. George's
+index.html:20 Flag: https://flagcdn.com/w320/gd.png
+index.html:18 Country Name: Belgium
+index.html:19 Capital: Brussels
+index.html:20 Flag: https://flagcdn.com/w320/be.png
+index.html:18 Country Name: Albania
+index.html:19 Capital: Tirana
+index.html:20 Flag: https://flagcdn.com/w320/al.png
+index.html:18 Country Name: Denmark
+index.html:19 Capital: Copenhagen
+index.html:20 Flag: https://flagcdn.com/w320/dk.png
+index.html:18 Country Name: Colombia
+index.html:19 Capital: Bogotá
+index.html:20 Flag: https://flagcdn.com/w320/co.png
+index.html:18 Country Name: Lithuania
+index.html:19 Capital: Vilnius
+index.html:20 Flag: https://flagcdn.com/w320/lt.png
+index.html:18 Country Name: Jersey
+index.html:19 Capital: Saint Helier
+index.html:20 Flag: https://flagcdn.com/w320/je.png
+index.html:18 Country Name: Kuwait
+index.html:19 Capital: Kuwait City
+index.html:20 Flag: https://flagcdn.com/w320/kw.png
+index.html:18 Country Name: Bangladesh
+index.html:19 Capital: Dhaka
+index.html:20 Flag: https://flagcdn.com/w320/bd.png
+index.html:18 Country Name: Gambia
+index.html:19 Capital: Banjul
+index.html:20 Flag: https://flagcdn.com/w320/gm.png
+index.html:18 Country Name: Pitcairn Islands
+index.html:19 Capital: Adamstown
+index.html:20 Flag: https://flagcdn.com/w320/pn.png
+index.html:18 Country Name: Western Sahara
+index.html:19 Capital: El Aaiún
+index.html:20 Flag: https://flagcdn.com/w320/eh.png
+index.html:18 Country Name: Vietnam
+index.html:19 Capital: Hanoi
+index.html:20 Flag: https://flagcdn.com/w320/vn.png
+index.html:18 Country Name: Réunion
+index.html:19 Capital: Saint-Denis
+index.html:20 Flag: https://flagcdn.com/w320/re.png
+index.html:18 Country Name: Germany
+index.html:19 Capital: Berlin
+index.html:20 Flag: https://flagcdn.com/w320/de.png
+index.html:18 Country Name: Ecuador
+index.html:19 Capital: Quito
+index.html:20 Flag: https://flagcdn.com/w320/ec.png
+index.html:18 Country Name: Hungary
+index.html:19 Capital: Budapest
+index.html:20 Flag: https://flagcdn.com/w320/hu.png
+index.html:18 Country Name: Ethiopia
+index.html:19 Capital: Addis Ababa
+index.html:20 Flag: https://flagcdn.com/w320/et.png
+index.html:18 Country Name: Saint Lucia
+index.html:19 Capital: Castries
+index.html:20 Flag: https://flagcdn.com/w320/lc.png
+index.html:18 Country Name: Vanuatu
+index.html:19 Capital: Port Vila
+index.html:20 Flag: https://flagcdn.com/w320/vu.png
+index.html:18 Country Name: North Korea
+index.html:19 Capital: Pyongyang
+index.html:20 Flag: https://flagcdn.com/w320/kp.png
+index.html:18 Country Name: Netherlands
+index.html:19 Capital: Amsterdam
+index.html:20 Flag: https://flagcdn.com/w320/nl.png
+index.html:18 Country Name: Guatemala
+index.html:19 Capital: Guatemala City
+index.html:20 Flag: https://flagcdn.com/w320/gt.png
+index.html:18 Country Name: Russia
+index.html:19 Capital: Moscow
+index.html:20 Flag: https://flagcdn.com/w320/ru.png
+index.html:18 Country Name: Mexico
+index.html:19 Capital: Mexico City
+index.html:20 Flag: https://flagcdn.com/w320/mx.png
+index.html:18 Country Name: Marshall Islands
+index.html:19 Capital: Majuro
+index.html:20 Flag: https://flagcdn.com/w320/mh.png
+index.html:18 Country Name: Martinique
+index.html:19 Capital: Fort-de-France
+index.html:20 Flag: https://flagcdn.com/w320/mq.png
+index.html:18 Country Name: Chile
+index.html:19 Capital: Santiago
+index.html:20 Flag: https://flagcdn.com/w320/cl.png
+index.html:18 Country Name: Macau
+index.html:19 Capital: undefined
+index.html:20 Flag: https://flagcdn.com/w320/mo.png
+index.html:18 Country Name: Costa Rica
+index.html:19 Capital: San José
+index.html:20 Flag: https://flagcdn.com/w320/cr.png
+index.html:18 Country Name: Djibouti
+index.html:19 Capital: Djibouti
+index.html:20 Flag: https://flagcdn.com/w320/dj.png
+index.html:18 Country Name: Japan
+index.html:19 Capital: Tokyo
+index.html:20 Flag: https://flagcdn.com/w320/jp.png
+index.html:18 Country Name: Azerbaijan
+index.html:19 Capital: Baku
+index.html:20 Flag: https://flagcdn.com/w320/az.png
+index.html:18 Country Name: Malawi
+index.html:19 Capital: Lilongwe
+index.html:20 Flag: https://flagcdn.com/w320/mw.png
+index.html:18 Country Name: El Salvador
+index.html:19 Capital: San Salvador
+index.html:20 Flag: https://flagcdn.com/w320/sv.png
+index.html:18 Country Name: Israel
+index.html:19 Capital: Jerusalem
+index.html:20 Flag: https://flagcdn.com/w320/il.png
+index.html:18 Country Name: Kenya
+index.html:19 Capital: Nairobi
+index.html:20 Flag: https://flagcdn.com/w320/ke.png
+index.html:18 Country Name: Cook Islands
+index.html:19 Capital: Avarua
+index.html:20 Flag: https://flagcdn.com/w320/ck.png
+index.html:18 Country Name: South Sudan
+index.html:19 Capital: Juba
+index.html:20 Flag: https://flagcdn.com/w320/ss.png
+index.html:18 Country Name: Timor-Leste
+index.html:19 Capital: Dili
+index.html:20 Flag: https://flagcdn.com/w320/tl.png
+index.html:18 Country Name: Poland
+index.html:19 Capital: Warsaw
+index.html:20 Flag: https://flagcdn.com/w320/pl.png
+index.html:18 Country Name: Anguilla
+index.html:19 Capital: The Valley
+index.html:20 Flag: https://flagcdn.com/w320/ai.png
+index.html:18 Country Name: Barbados
+index.html:19 Capital: Bridgetown
+index.html:20 Flag: https://flagcdn.com/w320/bb.png
+index.html:18 Country Name: Turkey
+index.html:19 Capital: Ankara
+index.html:20 Flag: https://flagcdn.com/w320/tr.png
+index.html:18 Country Name: Belarus
+index.html:19 Capital: Minsk
+index.html:20 Flag: https://flagcdn.com/w320/by.png
+index.html:18 Country Name: Guinea-Bissau
+index.html:19 Capital: Bissau
+index.html:20 Flag: https://flagcdn.com/w320/gw.png
+index.html:18 Country Name: Nicaragua
+index.html:19 Capital: Managua
+index.html:20 Flag: https://flagcdn.com/w320/ni.png
+index.html:18 Country Name: Puerto Rico
+index.html:19 Capital: San Juan
+index.html:20 Flag: https://flagcdn.com/w320/pr.png
+index.html:18 Country Name: Laos
+index.html:19 Capital: Vientiane
+index.html:20 Flag: https://flagcdn.com/w320/la.png
+index.html:18 Country Name: Jordan
+index.html:19 Capital: Amman
+index.html:20 Flag: https://flagcdn.com/w320/jo.png
+index.html:18 Country Name: Moldova
+index.html:19 Capital: Chișinău
+index.html:20 Flag: https://flagcdn.com/w320/md.png
+index.html:18 Country Name: São Tomé and Príncipe
+index.html:19 Capital: São Tomé
+index.html:20 Flag: https://flagcdn.com/w320/st.png
+index.html:18 Country Name: Niue
+index.html:19 Capital: Alofi
+index.html:20 Flag: https://flagcdn.com/w320/nu.png
+index.html:18 Country Name: Curaçao
+index.html:19 Capital: Willemstad
+index.html:20 Flag: https://flagcdn.com/w320/cw.png
+index.html:18 Country Name: DR Congo
+index.html:19 Capital: Kinshasa
+index.html:20 Flag: https://flagcdn.com/w320/cd.png
+index.html:18 Country Name: Lebanon
+index.html:19 Capital: Beirut
+index.html:20 Flag: https://flagcdn.com/w320/lb.png
+index.html:18 Country Name: Myanmar
+index.html:19 Capital: Naypyidaw
+index.html:20 Flag: https://flagcdn.com/w320/mm.png
+index.html:18 Country Name: Turkmenistan
+index.html:19 Capital: Ashgabat
+index.html:20 Flag: https://flagcdn.com/w320/tm.png
+index.html:18 Country Name: Samoa
+index.html:19 Capital: Apia
+index.html:20 Flag: https://flagcdn.com/w320/ws.png
+index.html:18 Country Name: New Caledonia
+index.html:19 Capital: Nouméa
+index.html:20 Flag: https://flagcdn.com/w320/nc.png
