@@ -4,10 +4,6 @@ const path = require("path");
 
 const outputFolder = "./output";
 
-console.log(
-    "To check whether the folder is already there or not!!!",
-     fs.existsSync(outputFolder)
-);
 
 if (!fs.existsSync(outputFolder)) {
    fs.mkdirSync(outputFolder);
