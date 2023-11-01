@@ -1,3 +1,0 @@
-4)Print the total population of countries using reduce function
-
-     Total population of countries: 7777721563.
