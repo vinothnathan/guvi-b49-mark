@@ -1,0 +1,27 @@
+<http>
+    <head>
+        <title>XMLHttpRequest Example</title>
+    </head>
+    <body>
+        <script>
+            var xhr = new XMLHttpRequest();
+            var apiUrl = "https://restcountries.com/v3.1/all";
+            xhr.open("GET", apiUrl, true);
+            xhr.onreadystatechange = function() {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                var countriesData = JSON.parse(xhr.responseText);
+              countriesData.forEach(country => {
+                var name = country.name.common;
+                var capital = country.capital && country.capital[0];
+                var flag = country.flags && country.flags.png;
+
+                 console.log("Country Name:", name);
+                 console.log("Capital:", capital);
+                 console.log("Flag:", flag);
+              });
+            }
+          };
+xhr.send();
+        </script>
+    </body>
+    </http>

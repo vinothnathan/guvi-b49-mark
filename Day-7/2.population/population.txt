@@ -1,0 +1,62 @@
+2)Get all the countries with a population of less than 2 lakhs using Filter function
+
+index.html:28 Saint Kitts and Nevis
+index.html:28 British Indian Ocean Territory
+index.html:28 Nauru
+index.html:28 Bermuda
+index.html:28 Tuvalu
+index.html:28 Guernsey
+index.html:28 Faroe Islands
+index.html:28 Tokelau
+index.html:28 French Southern and Antarctic Lands
+index.html:28 Gibraltar
+index.html:28 Norfolk Island
+index.html:28 Saint Vincent and the Grenadines
+index.html:28 British Virgin Islands
+index.html:28 Monaco
+index.html:28 Kiribati
+index.html:28 Svalbard and Jan Mayen
+index.html:28 Cocos (Keeling) Islands
+index.html:28 United States Virgin Islands
+index.html:28 San Marino
+index.html:28 Dominica
+index.html:28 Saint Helena, Ascension and Tristan da Cunha
+index.html:28 Tonga
+index.html:28 Isle of Man
+index.html:28 South Georgia
+index.html:28 Antigua and Barbuda
+index.html:28 Antarctica
+index.html:28 Vatican City
+index.html:28 Saint Barthélemy
+index.html:28 Saint Martin
+index.html:28 Wallis and Futuna
+index.html:28 Christmas Island
+index.html:28 Palau
+index.html:28 Andorra
+index.html:28 Micronesia
+index.html:28 Åland Islands
+index.html:28 Sint Maarten
+index.html:28 Liechtenstein
+index.html:28 Greenland
+index.html:28 Seychelles
+index.html:28 Aruba
+index.html:28 Cayman Islands
+index.html:28 American Samoa
+index.html:28 United States Minor Outlying Islands
+index.html:28 Falkland Islands
+index.html:28 Guam
+index.html:28 Saint Pierre and Miquelon
+index.html:28 Caribbean Netherlands
+index.html:28 Turks and Caicos Islands
+index.html:28 Montserrat
+index.html:28 Northern Mariana Islands
+index.html:28 Grenada
+index.html:28 Jersey
+index.html:28 Pitcairn Islands
+index.html:28 Saint Lucia
+index.html:28 Marshall Islands
+index.html:28 Cook Islands
+index.html:28 Anguilla
+index.html:28 Niue
+index.html:28 Curaçao
+index.html:28 Samoa

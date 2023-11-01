@@ -1,0 +1,145 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.todo-list {
+  margin-top: 20px;
+}
+
+.todo-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.todo-item.Completed {
+  background-color: #e0f0e0;
+}
+
+.todo-item h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.todo-item p {
+  margin: 5px 0 10px 0;
+}
+
+.status {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: auto;
+}
+
+.status span {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.status-dropdown {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin-top: 5px;
+  z-index: 1;
+}
+
+.status-dropdown button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  text-align: left;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.buttons button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 5px;
+  padding: 5px 10px;
+}
+
+.add-todo {
+  margin-bottom: 20px;
+}
+
+.add-todo input,
+.add-todo textarea {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  padding: 8px;
+  width: 100%;
+}
+
+.status-filter {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.status-filter button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.status-filter button.active {
+  background-color: #007bff;
+  color: #fff;
+}
+

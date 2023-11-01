@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+  <script type="text/javascript">
+    function resetForm () {
+      document.getElementById("myForm").reset();
+    }
+  </script>
+    <div class="container">
+                <h1 class="card-title mt-3 text-center">Food Order Form</h1>
+              <div class="">
+      <form id="myform">
+        <div>
+        <label for="firstname">Firstname:</label>
+        <input id="firstname" type="text"  />
+        </div>
+    </div>
+        <div>
+            <label for="lastname">Lastname:</label>
+            <input id="lastname" type="text"/>
+            </div>
+            <div>
+              <label for="lastname">Address:</Address>:</label>
+              <input id="address" type="text"/>
+            </div> 
+            <div>
+                <label for="pincode">Pincode:</label>
+                <input id="pincode" type="text" />
+                </div>
+           <div>
+             <lable for="gender">Gender:</lable>
+              <div>
+             <input type="radio" name="gender" value="male" /> Male
+             <input type="radio" name="gender" value="female" /> Female
+             <input type="radio" name="gender" value="others" /> others
+             </div>
+             </div>
+             <div>
+        <label>Choice of food: </label>
+        <div>
+        <input type="checkbox" name="food" value="idly vada" /> Idly vada
+        <input type="checkbox" name="food" value="dosa" /> Dosa
+        <input type="checkbox" name="food" value="mutton biryani" /> Mutton biryani
+        <input type="checkbox" name="food" value="egg rice" /> Egg rice
+        <input type="checkbox" name="food" value="veg rice" /> Veg rice
+        </div>
+        </div>
+        <div>
+          <label for="state">State:</label>
+          <input id="state" type="text"/>
+            </div>
+        <div>
+                <label for="country">Country:</label>
+                <input id="country" type="text"/>
+                </div>
+                <br />
+       <button type="submit">Submit</button>
+       <button type="reset" onClick="resetForm">Clear</button>
+       <br />
+        <br />
+      </form>
+
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>firstname</th>
+            <th>lastname</th>
+            <th>address</th>
+            <th>pincode</th>
+            <th>gender</th>
+            <th>food</th>
+            <th>state</th>
+            <th>country</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

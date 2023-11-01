@@ -1,0 +1,64 @@
+              
+                   RESUME DATA JSON FORMAT:
+
+{
+  "basics": {
+      "name"       : "Vinoth kumar",
+      "dob"        : "12-02-1995"
+      "email"      : "vinothnathan@gmail.com",
+      "phone"      : "9600857143",
+      "location"   : {
+      "address"    : "2712 Broadway St",
+      "postalCode" : "625516",
+      "city"       : "cumbum",
+      "district"   : "theni",
+      "state"      : "tamilnadu",
+      "country"    : "india"
+    },
+    
+  },
+  "work": [{
+      "name"       : "uiappl",
+      "position"   : "junior enginee",
+      "url"        : "https://uiappl.com",
+      "startDate"  : "2020-11-01",
+      "endDate"    : "still now",
+      "dep"        : ["quality"]
+  }],
+  
+  "education": [{
+      "institution": "dote",
+      "url"        : "https://dote.com/",
+      "dep"        : "Diploma EEE",
+      "startDate"  : "2012-06-01",
+      "endDate"    : "2014-04-10",
+      "persentage" : "76%",
+  }],
+
+  "awards": [{
+      "title"      : "best quality awards",
+      "date"       : "2014-11-01",
+      "awarder"    : "Company",
+      "summary"    : "achive zero defects"
+  }],
+  
+  "skills": [{
+      "name"       : "pcb",
+      "level"      : "starting",
+    
+  }],
+  "languages": [{
+      "language"   : "Tamil","English",
+      "fluency"    : "Native speaker"
+  }],
+  "interests": [{
+      "name"       : "sports",
+      "keywords"   : ["kabadi","cricket"]
+  }],
+
+  "references": [{
+      "name"       : "vinoth",
+      "reference"  : "Reference…"
+  }],
+  
+}

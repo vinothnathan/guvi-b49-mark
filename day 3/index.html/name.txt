@@ -1,0 +1,250 @@
+index.html:26 {common: 'Jordan', official: 'Hashemite Kingdom of Jordan', nativeName: {…}}common: "Jordan"nativeName: {ara: {…}}official: "Hashemite Kingdom of Jordan"[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()
+index.html:26 {common: 'Northern Mariana Islands', official: 'Commonwealth of the Northern Mariana Islands', nativeName: {…}}
+index.html:26 {common: 'Serbia', official: 'Republic of Serbia', nativeName: {…}}
+index.html:26 {common: 'Andorra', official: 'Principality of Andorra', nativeName: {…}}
+index.html:26 {common: 'Turks and Caicos Islands', official: 'Turks and Caicos Islands', nativeName: {…}}
+index.html:26 {common: 'Bermuda', official: 'Bermuda', nativeName: {…}}
+index.html:26 {common: 'Antarctica', official: 'Antarctica'}
+index.html:26 {common: 'Bolivia', official: 'Plurinational State of Bolivia', nativeName: {…}}
+index.html:26 {common: 'Libya', official: 'State of Libya', nativeName: {…}}
+index.html:26 {common: 'Mali', official: 'Republic of Mali', nativeName: {…}}
+index.html:26 {common: 'Armenia', official: 'Republic of Armenia', nativeName: {…}}
+index.html:26 {common: 'Mauritius', official: 'Republic of Mauritius', nativeName: {…}}
+index.html:26 {common: 'Maldives', official: 'Republic of the Maldives', nativeName: {…}}
+index.html:26 {common: 'American Samoa', official: 'American Samoa', nativeName: {…}}
+index.html:26 {common: 'North Macedonia', official: 'Republic of North Macedonia', nativeName: {…}}
+index.html:26 {common: 'Ethiopia', official: 'Federal Democratic Republic of Ethiopia', nativeName: {…}}
+index.html:26 {common: 'Greenland', official: 'Greenland', nativeName: {…}}
+index.html:26 {common: 'Iraq', official: 'Republic of Iraq', nativeName: {…}}
+index.html:26 {common: 'Guatemala', official: 'Republic of Guatemala', nativeName: {…}}
+index.html:26 {common: 'Trinidad and Tobago', official: 'Republic of Trinidad and Tobago', nativeName: {…}}
+index.html:26 {common: 'Peru', official: 'Republic of Peru', nativeName: {…}}
+index.html:26 {common: 'Suriname', official: 'Republic of Suriname', nativeName: {…}}
+index.html:26 {common: 'Sweden', official: 'Kingdom of Sweden', nativeName: {…}}
+index.html:26 {common: 'New Caledonia', official: 'New Caledonia', nativeName: {…}}
+index.html:26 {common: 'French Polynesia', official: 'French Polynesia', nativeName: {…}}
+index.html:26 {common: 'Benin', official: 'Republic of Benin', nativeName: {…}}
+index.html:26 {common: 'Estonia', official: 'Republic of Estonia', nativeName: {…}}
+index.html:26 {common: 'Falkland Islands', official: 'Falkland Islands', nativeName: {…}}
+index.html:26 {common: 'Guam', official: 'Guam', nativeName: {…}}
+index.html:26 {common: 'Zimbabwe', official: 'Republic of Zimbabwe', nativeName: {…}}
+index.html:26 {common: 'Slovakia', official: 'Slovak Republic', nativeName: {…}}
+index.html:26 {common: 'Netherlands', official: 'Kingdom of the Netherlands', nativeName: {…}}
+index.html:26 {common: 'Ecuador', official: 'Republic of Ecuador', nativeName: {…}}
+index.html:26 {common: 'Saudi Arabia', official: 'Kingdom of Saudi Arabia', nativeName: {…}}
+index.html:26 {common: 'United Arab Emirates', official: 'United Arab Emirates', nativeName: {…}}
+index.html:26 {common: 'Afghanistan', official: 'Islamic Republic of Afghanistan', nativeName: {…}}
+index.html:26 {common: 'United States Minor Outlying Islands', official: 'United States Minor Outlying Islands', nativeName: {…}}
+index.html:26 {common: 'Central African Republic', official: 'Central African Republic', nativeName: {…}}
+index.html:26 {common: 'Panama', official: 'Republic of Panama', nativeName: {…}}
+index.html:26 {common: 'Vatican City', official: 'Vatican City State', nativeName: {…}}
+index.html:26 {common: 'Syria', official: 'Syrian Arab Republic', nativeName: {…}}
+index.html:26 {common: 'Vanuatu', official: 'Republic of Vanuatu', nativeName: {…}}
+index.html:26 {common: 'Honduras', official: 'Republic of Honduras', nativeName: {…}}
+index.html:26 {common: 'Kiribati', official: 'Independent and Sovereign Republic of Kiribati', nativeName: {…}}
+index.html:26 {common: 'Chile', official: 'Republic of Chile', nativeName: {…}}
+index.html:26 {common: 'Burkina Faso', official: 'Burkina Faso', nativeName: {…}}
+index.html:26 {common: 'Saint Kitts and Nevis', official: 'Federation of Saint Christopher and Nevis', nativeName: {…}}
+index.html:26 {common: 'Saint Barthélemy', official: 'Collectivity of Saint Barthélemy', nativeName: {…}}
+index.html:26 {common: 'Mexico', official: 'United Mexican States', nativeName: {…}}
+index.html:26 {common: 'China', official: "People's Republic of China", nativeName: {…}}
+index.html:26 {common: 'Timor-Leste', official: 'Democratic Republic of Timor-Leste', nativeName: {…}}
+index.html:26 {common: 'British Indian Ocean Territory', official: 'British Indian Ocean Territory', nativeName: {…}}
+index.html:26 {common: 'South Sudan', official: 'Republic of South Sudan', nativeName: {…}}
+index.html:26 {common: 'Eswatini', official: 'Kingdom of Eswatini', nativeName: {…}}
+index.html:26 {common: 'Uzbekistan', official: 'Republic of Uzbekistan', nativeName: {…}}
+index.html:26 {common: 'Indonesia', official: 'Republic of Indonesia', nativeName: {…}}
+index.html:26 {common: 'Paraguay', official: 'Republic of Paraguay', nativeName: {…}}
+index.html:26 {common: 'Monaco', official: 'Principality of Monaco', nativeName: {…}}
+index.html:26 {common: 'Grenada', official: 'Grenada', nativeName: {…}}
+index.html:26 {common: 'Croatia', official: 'Republic of Croatia', nativeName: {…}}
+index.html:26 {common: 'Poland', official: 'Republic of Poland', nativeName: {…}}
+index.html:26 {common: 'Bosnia and Herzegovina', official: 'Bosnia and Herzegovina', nativeName: {…}}
+index.html:26 {common: 'Canada', official: 'Canada', nativeName: {…}}
+index.html:26 {common: 'Portugal', official: 'Portuguese Republic', nativeName: {…}}
+index.html:26 {common: 'Brazil', official: 'Federative Republic of Brazil', nativeName: {…}}
+index.html:26 {common: 'Mauritania', official: 'Islamic Republic of Mauritania', nativeName: {…}}
+index.html:26 {common: 'Israel', official: 'State of Israel', nativeName: {…}}
+index.html:26 {common: 'Curaçao', official: 'Country of Curaçao', nativeName: {…}}
+index.html:26 {common: 'Brunei', official: 'Nation of Brunei, Abode of Peace', nativeName: {…}}
+index.html:26 {common: 'Angola', official: 'Republic of Angola', nativeName: {…}}
+index.html:26 {common: 'Malta', official: 'Republic of Malta', nativeName: {…}}
+index.html:26 {common: 'Belarus', official: 'Republic of Belarus', nativeName: {…}}
+index.html:26 {common: 'Turkey', official: 'Republic of Turkey', nativeName: {…}}
+index.html:26 {common: 'Finland', official: 'Republic of Finland', nativeName: {…}}
+index.html:26 {common: 'Gibraltar', official: 'Gibraltar', nativeName: {…}}
+index.html:26 {common: 'Bhutan', official: 'Kingdom of Bhutan', nativeName: {…}}
+index.html:26 {common: 'Spain', official: 'Kingdom of Spain', nativeName: {…}}
+index.html:26 {common: 'Venezuela', official: 'Bolivarian Republic of Venezuela', nativeName: {…}}
+index.html:26 {common: 'Qatar', official: 'State of Qatar', nativeName: {…}}
+index.html:26 {common: 'Czechia', official: 'Czech Republic', nativeName: {…}}
+index.html:26 {common: 'Kuwait', official: 'State of Kuwait', nativeName: {…}}
+index.html:26 {common: 'Montenegro', official: 'Montenegro', nativeName: {…}}
+index.html:26 {common: 'Bouvet Island', official: 'Bouvet Island', nativeName: {…}}
+index.html:26 {common: 'India', official: 'Republic of India', nativeName: {…}}
+index.html:26 {common: 'New Zealand', official: 'New Zealand', nativeName: {…}}
+index.html:26 {common: 'Jamaica', official: 'Jamaica', nativeName: {…}}
+index.html:26 {common: 'Cayman Islands', official: 'Cayman Islands', nativeName: {…}}
+index.html:26 {common: 'San Marino', official: 'Republic of San Marino', nativeName: {…}}
+index.html:26 {common: 'Republic of the Congo', official: 'Republic of the Congo', nativeName: {…}}
+index.html:26 {common: 'Pakistan', official: 'Islamic Republic of Pakistan', nativeName: {…}}
+index.html:26 {common: 'France', official: 'French Republic', nativeName: {…}}
+index.html:26 {common: 'Kazakhstan', official: 'Republic of Kazakhstan', nativeName: {…}}
+index.html:26 {common: 'Bahrain', official: 'Kingdom of Bahrain', nativeName: {…}}
+index.html:26 {common: 'Fiji', official: 'Republic of Fiji', nativeName: {…}}
+index.html:26 {common: 'Iceland', official: 'Iceland', nativeName: {…}}
+index.html:26 {common: 'Myanmar', official: 'Republic of the Union of Myanmar', nativeName: {…}}
+index.html:26 {common: 'Bangladesh', official: "People's Republic of Bangladesh", nativeName: {…}}
+index.html:26 {common: 'Philippines', official: 'Republic of the Philippines', nativeName: {…}}
+index.html:26 {common: 'Equatorial Guinea', official: 'Republic of Equatorial Guinea', nativeName: {…}}
+index.html:26 {common: 'Ireland', official: 'Republic of Ireland', nativeName: {…}}
+index.html:26 {common: 'Nepal', official: 'Federal Democratic Republic of Nepal', nativeName: {…}}
+index.html:26 {common: 'Yemen', official: 'Republic of Yemen', nativeName: {…}}
+index.html:26 {common: 'South Korea', official: 'Republic of Korea', nativeName: {…}}
+index.html:26 {common: 'Denmark', official: 'Kingdom of Denmark', nativeName: {…}}
+index.html:26 {common: 'Oman', official: 'Sultanate of Oman', nativeName: {…}}
+index.html:26 {common: 'Saint Vincent and the Grenadines', official: 'Saint Vincent and the Grenadines', nativeName: {…}}
+index.html:26 {common: 'Eritrea', official: 'State of Eritrea', nativeName: {…}}
+index.html:26 {common: 'Australia', official: 'Commonwealth of Australia', nativeName: {…}}
+index.html:26 {common: 'Iran', official: 'Islamic Republic of Iran', nativeName: {…}}
+index.html:26 {common: 'El Salvador', official: 'Republic of El Salvador', nativeName: {…}}
+index.html:26 {common: 'Tanzania', official: 'United Republic of Tanzania', nativeName: {…}}
+index.html:26 {common: 'Guadeloupe', official: 'Guadeloupe', nativeName: {…}}
+index.html:26 {common: 'Solomon Islands', official: 'Solomon Islands', nativeName: {…}}
+index.html:26 {common: 'Kenya', official: 'Republic of Kenya', nativeName: {…}}
+index.html:26 {common: 'Dominican Republic', official: 'Dominican Republic', nativeName: {…}}
+index.html:26 {common: 'Greece', official: 'Hellenic Republic', nativeName: {…}}
+index.html:26 {common: 'Guernsey', official: 'Bailiwick of Guernsey', nativeName: {…}}
+index.html:26 {common: 'Rwanda', official: 'Republic of Rwanda', nativeName: {…}}
+index.html:26 {common: 'Saint Pierre and Miquelon', official: 'Saint Pierre and Miquelon', nativeName: {…}}
+index.html:26 {common: 'Tuvalu', official: 'Tuvalu', nativeName: {…}}
+index.html:26 {common: 'Taiwan', official: 'Republic of China (Taiwan)', nativeName: {…}}
+index.html:26 {common: 'Guyana', official: 'Co-operative Republic of Guyana', nativeName: {…}}
+index.html:26 {common: 'Seychelles', official: 'Republic of Seychelles', nativeName: {…}}
+index.html:26 {common: 'North Korea', official: "Democratic People's Republic of Korea", nativeName: {…}}
+index.html:26 {common: 'Botswana', official: 'Republic of Botswana', nativeName: {…}}
+index.html:26 {common: 'Cambodia', official: 'Kingdom of Cambodia', nativeName: {…}}
+index.html:26 {common: 'Barbados', official: 'Barbados', nativeName: {…}}
+index.html:26 {common: 'Colombia', official: 'Republic of Colombia', nativeName: {…}}
+index.html:26 {common: 'Ukraine', official: 'Ukraine', nativeName: {…}}
+index.html:26 {common: 'Ivory Coast', official: "Republic of Côte d'Ivoire", nativeName: {…}}
+index.html:26 {common: 'Nauru', official: 'Republic of Nauru', nativeName: {…}}
+index.html:26 {common: 'Namibia', official: 'Republic of Namibia', nativeName: {…}}
+index.html:26 {common: 'Chad', official: 'Republic of Chad', nativeName: {…}}
+index.html:26 {common: 'Tonga', official: 'Kingdom of Tonga', nativeName: {…}}
+index.html:26 {common: 'Argentina', official: 'Argentine Republic', nativeName: {…}}
+index.html:26 {common: 'Christmas Island', official: 'Territory of Christmas Island', nativeName: {…}}
+index.html:26 {common: 'Niger', official: 'Republic of Niger', nativeName: {…}}
+index.html:26 {common: 'Marshall Islands', official: 'Republic of the Marshall Islands', nativeName: {…}}
+index.html:26 {common: 'Costa Rica', official: 'Republic of Costa Rica', nativeName: {…}}
+index.html:26 {common: 'Ghana', official: 'Republic of Ghana', nativeName: {…}}
+index.html:26 {common: 'Austria', official: 'Republic of Austria', nativeName: {…}}
+index.html:26 {common: 'Saint Helena, Ascension and Tristan da Cunha', official: 'Saint Helena, Ascension and Tristan da Cunha', nativeName: {…}}
+index.html:26 {common: 'Palestine', official: 'State of Palestine', nativeName: {…}}
+index.html:26 {common: 'Cuba', official: 'Republic of Cuba', nativeName: {…}}
+index.html:26 {common: 'Hungary', official: 'Hungary', nativeName: {…}}
+index.html:26 {common: 'Micronesia', official: 'Federated States of Micronesia', nativeName: {…}}
+index.html:26 {common: 'Belize', official: 'Belize', nativeName: {…}}
+index.html:26 {common: 'Bahamas', official: 'Commonwealth of the Bahamas', nativeName: {…}}
+index.html:26 {common: 'Aruba', official: 'Aruba', nativeName: {…}}
+index.html:26 {common: 'São Tomé and Príncipe', official: 'Democratic Republic of São Tomé and Príncipe', nativeName: {…}}
+index.html:26 {common: 'Russia', official: 'Russian Federation', nativeName: {…}}
+index.html:26 {common: 'Luxembourg', official: 'Grand Duchy of Luxembourg', nativeName: {…}}
+index.html:26 {common: 'Faroe Islands', official: 'Faroe Islands', nativeName: {…}}
+index.html:26 {common: 'Nicaragua', official: 'Republic of Nicaragua', nativeName: {…}}
+index.html:26 {common: 'Tunisia', official: 'Tunisian Republic', nativeName: {…}}
+index.html:26 {common: 'DR Congo', official: 'Democratic Republic of the Congo', nativeName: {…}}
+index.html:26 {common: 'Svalbard and Jan Mayen', official: 'Svalbard og Jan Mayen', nativeName: {…}}
+index.html:26 {common: 'South Africa', official: 'Republic of South Africa', nativeName: {…}}
+index.html:26 {common: 'Sierra Leone', official: 'Republic of Sierra Leone', nativeName: {…}}
+index.html:26 {common: 'Lesotho', official: 'Kingdom of Lesotho', nativeName: {…}}
+index.html:26 {common: 'South Georgia', official: 'South Georgia and the South Sandwich Islands', nativeName: {…}}
+index.html:26 {common: 'Italy', official: 'Italian Republic', nativeName: {…}}
+index.html:26 {common: 'Djibouti', official: 'Republic of Djibouti', nativeName: {…}}
+index.html:26 {common: 'Heard Island and McDonald Islands', official: 'Heard Island and McDonald Islands', nativeName: {…}}
+index.html:26 {common: 'Sri Lanka', official: 'Democratic Socialist Republic of Sri Lanka', nativeName: {…}}
+index.html:26 {common: 'Saint Lucia', official: 'Saint Lucia', nativeName: {…}}
+index.html:26 {common: 'Samoa', official: 'Independent State of Samoa', nativeName: {…}}
+index.html:26 {common: 'Cocos (Keeling) Islands', official: 'Territory of the Cocos (Keeling) Islands', nativeName: {…}}
+index.html:26 {common: 'Puerto Rico', official: 'Commonwealth of Puerto Rico', nativeName: {…}}
+index.html:26 {common: 'Gabon', official: 'Gabonese Republic', nativeName: {…}}
+index.html:26 {common: 'Turkmenistan', official: 'Turkmenistan', nativeName: {…}}
+index.html:26 {common: 'Latvia', official: 'Republic of Latvia', nativeName: {…}}
+index.html:26 {common: 'Senegal', official: 'Republic of Senegal', nativeName: {…}}
+index.html:26 {common: 'Belgium', official: 'Kingdom of Belgium', nativeName: {…}}
+index.html:26 {common: 'Moldova', official: 'Republic of Moldova', nativeName: {…}}
+index.html:26 {common: 'Liechtenstein', official: 'Principality of Liechtenstein', nativeName: {…}}
+index.html:26 {common: 'Malawi', official: 'Republic of Malawi', nativeName: {…}}
+index.html:26 {common: 'Lebanon', official: 'Lebanese Republic', nativeName: {…}}
+index.html:26 {common: 'Mongolia', official: 'Mongolia', nativeName: {…}}
+index.html:26 {common: 'Norway', official: 'Kingdom of Norway', nativeName: {…}}
+index.html:26 {common: 'British Virgin Islands', official: 'Virgin Islands', nativeName: {…}}
+index.html:26 {common: 'Cameroon', official: 'Republic of Cameroon', nativeName: {…}}
+index.html:26 {common: 'Thailand', official: 'Kingdom of Thailand', nativeName: {…}}
+index.html:26 {common: 'Nigeria', official: 'Federal Republic of Nigeria', nativeName: {…}}
+index.html:26 {common: 'Réunion', official: 'Réunion Island', nativeName: {…}}
+index.html:26 {common: 'Cape Verde', official: 'Republic of Cabo Verde', nativeName: {…}}
+index.html:26 {common: 'Jersey', official: 'Bailiwick of Jersey', nativeName: {…}}
+index.html:26 {common: 'Algeria', official: "People's Democratic Republic of Algeria", nativeName: {…}}
+index.html:26 {common: 'Laos', official: "Lao People's Democratic Republic", nativeName: {…}}
+index.html:26 {common: 'Caribbean Netherlands', official: 'Bonaire, Sint Eustatius and Saba', nativeName: {…}}
+index.html:26 {common: 'Azerbaijan', official: 'Republic of Azerbaijan', nativeName: {…}}
+index.html:26 {common: 'Sint Maarten', official: 'Sint Maarten', nativeName: {…}}
+index.html:26 {common: 'Morocco', official: 'Kingdom of Morocco', nativeName: {…}}
+index.html:26 {common: 'Åland Islands', official: 'Åland Islands', nativeName: {…}}
+index.html:26 {common: 'Bulgaria', official: 'Republic of Bulgaria', nativeName: {…}}
+index.html:26 {common: 'Burundi', official: 'Republic of Burundi', nativeName: {…}}
+index.html:26 {common: 'Uganda', official: 'Republic of Uganda', nativeName: {…}}
+index.html:26 {common: 'Kosovo', official: 'Republic of Kosovo', nativeName: {…}}
+index.html:26 {common: 'Mozambique', official: 'Republic of Mozambique', nativeName: {…}}
+index.html:26 {common: 'Georgia', official: 'Georgia', nativeName: {…}}
+index.html:26 {common: 'United Kingdom', official: 'United Kingdom of Great Britain and Northern Ireland', nativeName: {…}}
+index.html:26 {common: 'Wallis and Futuna', official: 'Territory of the Wallis and Futuna Islands', nativeName: {…}}
+index.html:26 {common: 'Pitcairn Islands', official: 'Pitcairn Group of Islands', nativeName: {…}}
+index.html:26 {common: 'Romania', official: 'Romania', nativeName: {…}}
+index.html:26 {common: 'Vietnam', official: 'Socialist Republic of Vietnam', nativeName: {…}}
+index.html:26 {common: 'French Southern and Antarctic Lands', official: 'Territory of the French Southern and Antarctic Lands', nativeName: {…}}
+index.html:26 {common: 'Western Sahara', official: 'Sahrawi Arab Democratic Republic', nativeName: {…}}
+index.html:26 {common: 'Japan', official: 'Japan', nativeName: {…}}
+index.html:26 {common: 'Egypt', official: 'Arab Republic of Egypt', nativeName: {…}}
+index.html:26 {common: 'Liberia', official: 'Republic of Liberia', nativeName: {…}}
+index.html:26 {common: 'Lithuania', official: 'Republic of Lithuania', nativeName: {…}}
+index.html:26 {common: 'Haiti', official: 'Republic of Haiti', nativeName: {…}}
+index.html:26 {common: 'United States Virgin Islands', official: 'Virgin Islands of the United States', nativeName: {…}}
+index.html:26 {common: 'Papua New Guinea', official: 'Independent State of Papua New Guinea', nativeName: {…}}
+index.html:26 {common: 'Hong Kong', official: "Hong Kong Special Administrative Region of the People's Republic of China", nativeName: {…}}
+index.html:26 {common: 'Kyrgyzstan', official: 'Kyrgyz Republic', nativeName: {…}}
+index.html:26 {common: 'Palau', official: 'Republic of Palau', nativeName: {…}}
+index.html:26 {common: 'Madagascar', official: 'Republic of Madagascar', nativeName: {…}}
+index.html:26 {common: 'Gambia', official: 'Republic of the Gambia', nativeName: {…}}
+index.html:26 {common: 'Togo', official: 'Togolese Republic', nativeName: {…}}
+index.html:26 {common: 'Tokelau', official: 'Tokelau', nativeName: {…}}
+index.html:26 {common: 'Slovenia', official: 'Republic of Slovenia', nativeName: {…}}
+index.html:26 {common: 'Singapore', official: 'Republic of Singapore', nativeName: {…}}
+index.html:26 {common: 'French Guiana', official: 'Guiana', nativeName: {…}}
+index.html:26 {common: 'United States', official: 'United States of America', nativeName: {…}}
+index.html:26 {common: 'Montserrat', official: 'Montserrat', nativeName: {…}}
+index.html:26 {common: 'Malaysia', official: 'Malaysia', nativeName: {…}}
+index.html:26 {common: 'Germany', official: 'Federal Republic of Germany', nativeName: {…}}
+index.html:26 {common: 'Antigua and Barbuda', official: 'Antigua and Barbuda', nativeName: {…}}
+index.html:26 {common: 'Saint Martin', official: 'Saint Martin', nativeName: {…}}
+index.html:26 {common: 'Somalia', official: 'Federal Republic of Somalia', nativeName: {…}}
+index.html:26 {common: 'Macau', official: "Macao Special Administrative Region of the People's Republic of China", nativeName: {…}}
+index.html:26 {common: 'Albania', official: 'Republic of Albania', nativeName: {…}}
+index.html:26 {common: 'Mayotte', official: 'Department of Mayotte', nativeName: {…}}
+index.html:26 {common: 'Dominica', official: 'Commonwealth of Dominica', nativeName: {…}}
+index.html:26 {common: 'Zambia', official: 'Republic of Zambia', nativeName: {…}}
+index.html:26 {common: 'Anguilla', official: 'Anguilla', nativeName: {…}}
+index.html:26 {common: 'Cook Islands', official: 'Cook Islands', nativeName: {…}}
+index.html:26 {common: 'Martinique', official: 'Martinique', nativeName: {…}}
+index.html:26 {common: 'Guinea', official: 'Republic of Guinea', nativeName: {…}}
+index.html:26 {common: 'Comoros', official: 'Union of the Comoros', nativeName: {…}}
+index.html:26 {common: 'Niue', official: 'Niue', nativeName: {…}}
+index.html:26 {common: 'Switzerland', official: 'Swiss Confederation', nativeName: {…}}
+index.html:26 {common: 'Norfolk Island', official: 'Territory of Norfolk Island', nativeName: {…}}
+index.html:26 {common: 'Isle of Man', official: 'Isle of Man', nativeName: {…}}
+index.html:26 {common: 'Sudan', official: 'Republic of the Sudan', nativeName: {…}}
+index.html:26 {common: 'Tajikistan', official: 'Republic of Tajikistan', nativeName: {…}}
+index.html:26 {common: 'Uruguay', official: 'Oriental Republic of Uruguay', nativeName: {…}}
+index.html:26 {common: 'Cyprus', official: 'Republic of Cyprus', nativeName: {…}}
+index.html:26 {common: 'Guinea-Bissau', official: 'Republic of Guinea-Bissau', nativeName: {…}}
